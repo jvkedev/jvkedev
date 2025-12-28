@@ -1,3 +1,14 @@
+<h1 align="center">👋 Hi, I’m Shubham (JvkeDev)</h1>
+
+<h3 align="center">MERN Stack Developer | Fresher</h3>
+
+<p align="center">
+  I enjoy building full-stack web applications and learning by breaking things,
+  fixing them, and doing it better the next time.
+</p>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Improving my technical skills and preparing for new opportunities.<br><br>👯 I’m looking to collaborate on<br>Full-stack web projects using React, Node.js, and MongoDB.<br><br>🤝 I’m looking for help with<br>Advanced React patterns, TypeScript, and building scalable applications.<br><br>🌱 I’m currently learning<br>TypeScript, Next.js, and strengthening data structures and problem solving.<br><br>💬 Ask me about<br>MERN stack, frontend animations, debugging JavaScript, and project structure.<br><br>⚡ Fun fact<br>I enjoy fixing my own blunders and turning them into learning moments 😄
 
