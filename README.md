@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Shubham (JvkeDev)</h1>
 
-<h3 align="center">MERN Stack Developer | Fresher</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="center">
   I enjoy building full-stack web applications and learning by breaking things,
