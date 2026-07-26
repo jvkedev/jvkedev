@@ -12,21 +12,20 @@ Passionate about designing reliable backend systems, solving real-world problems
 
 🚀 **Currently**
 
-* Learning **NestJS**, **TypeScript**, **PostgreSQL**, and backend architecture.
-* Strengthening Data Structures & Algorithms and system design fundamentals.
+* Learning **NestJS**, **TypeScript**, **PostgreSQL**, Redis, and backend architecture.
+* Building backend projects with a focus on clean, scalable, and maintainable code.
 
-💼 **Looking to collaborate on**
+👯 **Looking to collaborate on**
 
-* Backend projects using **NestJS**, **Node.js**, **Express**, **PostgreSQL**, and **MongoDB**.
-* Open source projects that improve backend development skills.
+* Backend and full-stack projects using **NestJS**, **Node.js**, **Express**, **PostgreSQL**, and **MongoDB**.
 
 🤝 **Looking for help with**
 
-* Microservices
-* Distributed systems
-* Docker & Kubernetes
 * System Design
-* Cloud deployment (AWS)
+* Microservices
+* Distributed Systems
+* Docker & Kubernetes
+* Cloud Technologies (AWS)
 
 🌱 **Currently learning**
 
@@ -42,18 +41,17 @@ Passionate about designing reliable backend systems, solving real-world problems
 * JavaScript
 * TypeScript
 * Node.js
-* Express
+* Express.js
 * React
 * MongoDB
 * REST APIs
-* Debugging
-* Git
+* Git & GitHub
 
-🎯 **Career Goal**
-To become a world-class Backend Engineer, build software that serves millions of users, and work with high-performing engineering teams.
+🎯 **Long-Term Goal**
+To become a world-class Backend Engineer, contribute to products used by millions of people, work in **San Francisco**, and earn the opportunity to join the engineering team at **Netflix**.
 
 ⚡ **Fun Fact**
-I enjoy breaking things, figuring out why they broke, and rebuilding them better.
+I believe every bug is a lesson, and every project is a chance to become a better engineer.
 
 ---
 
